@@ -96,7 +96,7 @@
                     <ul class="nav navbar-nav">
                         <li><a href="https://p1.shullworks.com">P1</a></li>
                         <li class="active"><a href="https://p2.shullworks.com">P2</a></li>
-                        <li><a href="#">P3</a></li>
+                        <li><a href="https://p3.shullworks.com">P3</a></li>
                         <li><a href="#">P4</a></li>
                     </ul>
                 </div><!--/.nav-collapse -->
